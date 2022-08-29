@@ -1,0 +1,1 @@
+web: gunicorn rock_n_iasi_tracking.wsgi
